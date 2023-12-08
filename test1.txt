@@ -6,3 +6,4 @@ I have learned c++ programming language
 I have started my job in 2021
 I will join your birthday program at 10.00 pm
 I completed my tour in monday
+logo alignment is centered
